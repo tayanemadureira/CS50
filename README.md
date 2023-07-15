@@ -1,11 +1,12 @@
 # CS50’s Introduction to Programming with Python
-# PTBR: Introdução do CS50 à programação com Python
+ PTBR: Introdução do CS50 à programação com Python
 
-# Table of Contents
-# PTBR: Índice
 
-# Week 0 - Functions, Variables
-# PTBR: Funções, Variáveis
+- Table of Contents
+// PTBR: Índice
+
+- Week 0 - Functions, Variables
+// PTBR: Funções, Variáveis
 
 # Week 1 - Conditionals
 # PTBR:Semana 1 - Condicionais
