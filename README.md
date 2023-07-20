@@ -8,13 +8,13 @@
 - [Week 0 - Functions, Variables](https://github.com/tayanemadureira/CS50/tree/main/Week_0)
 // PTBR: Funções, Variáveis
 
-- Week 1 - Conditionals
+- [Week 1 - Conditionals](https://github.com/tayanemadureira/CS50/tree/main/Week_1)
 // PTBR:Semana 1 - Condicionais
 
-- Week 2 - Loops
+- [Week 2 - Loops](https://github.com/tayanemadureira/CS50/tree/main/Week_2)
 // PTBR: Semana 2 - Voltas
 
- - Week 3 - Exceptions
+ - [Week 3 - Exceptions](https://github.com/tayanemadureira/CS50/tree/main/Week_3)
 // PTBR: Semana 3 - Exceções
 
 - Week 4 - Libraries
