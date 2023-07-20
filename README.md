@@ -5,7 +5,7 @@
 - Table of Contents
 // PTBR: Índice
 
-- [Week 0 - Functions, Variables](https://github.com/tayanemadureira/CS50/commit/7bc9c39675dee9e0beb2936ef2056186f5dea497)
+- [Week 0 - Functions, Variables](https://github.com/tayanemadureira/CS50/tree/main/Week_0)
 // PTBR: Funções, Variáveis
 
 - Week 1 - Conditionals
